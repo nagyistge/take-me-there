@@ -21,6 +21,8 @@ This project features data visualization of transit train schedules. The web app
 * `$ ng new take-me-there`
 * `$ cd take-me-there`
 * `$ ng g c home`
+* `$ bower init`
+* `$ bower install bootstrap --save`
 
 
 
